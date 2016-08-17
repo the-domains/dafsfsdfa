@@ -1,0 +1,28 @@
+name: dafsfsdfa
+favicon: null
+layout_spectrum: 0.43919
+typography_spectrum: 0.81263
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9421697489451617
+  lightness: 0.429350889287889
+  saturation: 0.19716580375097692
+  rhythmicContrast: 0.8915339617524296
+purpose: []
